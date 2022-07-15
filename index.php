@@ -41,7 +41,7 @@
   <div class="card-body">
     <h5 class="card-title">Whisky</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
@@ -49,7 +49,7 @@
   <div class="card-body">
     <h5 class="card-title">Sushi</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
@@ -57,7 +57,7 @@
   <div class="card-body">
     <h5 class="card-title">Thor</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
@@ -65,7 +65,7 @@
   <div class="card-body">
     <h5 class="card-title">Pulga</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
@@ -73,7 +73,7 @@
   <div class="card-body">
     <h5 class="card-title">Faisca</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
@@ -81,7 +81,7 @@
   <div class="card-body">
     <h5 class="card-title">Cookie</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
@@ -89,7 +89,7 @@
   <div class="card-body">
     <h5 class="card-title">Choco</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
   </div>
 </div>
@@ -98,8 +98,7 @@
   <div class="card-body">
     <h5 class="card-title">Theo</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-   
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
@@ -107,8 +106,7 @@
   <div class="card-body">
     <h5 class="card-title">Gin</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
   </div>
 </div>
@@ -118,7 +116,7 @@
     <h5 class="card-title">Vodka</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
    
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
   </div>
 </div>
@@ -127,8 +125,7 @@
   <div class="card-body">
     <h5 class="card-title">Groot</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
   </div>
 </div>
@@ -137,8 +134,7 @@
   <div class="card-body">
     <h5 class="card-title">Oreo</h5>
     <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
-    
-    <a href="#" class="btn btn-primary">Quero Adotar</a>
+    <a href="adote.php" class="btn btn-primary">Quero Adotar</a>
   </div>
   </div>
 </div>
