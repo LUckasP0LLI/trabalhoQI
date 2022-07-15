@@ -60,7 +60,7 @@
         </div>
         <div class="form-floating">
         <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 80px" required name="msg"></textarea>
-        <label for="floatingTextarea2">Sugestão ou duvidas.</label>
+        <label for="floatingTextarea2">Fale um pouco sobre você.</label>
         </div>
         <input type="submit" value="Enviar" class="btn btn-success" id="btnEnviar" name="btnEnviar">
         <input type="reset" value="Limpar" class="btn btn-danger" id="btnLimpar" name="btnLimpar">

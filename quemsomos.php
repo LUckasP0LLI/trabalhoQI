@@ -13,7 +13,7 @@
 <body>
     <nav class="navbar navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar w/ text</a>
+            <a class="navbar-brand" href="index.php">MEADOTE</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -46,38 +46,37 @@
   <div class="row align-items-start">
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img/avatar.png" class="card-img-top" alt="...">
+  <img src="img/eu.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Lucas Eduardo Polli</h5>
     <p class="card-text">Deselvolvimento de sites com HTML5 e CSS3 e programador backend.</p>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-instagram"></i></a>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-linkedin"></i></a>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-whatsapp"></i></a>
-    
+    <a href="https://www.instagram.com/lucaspolli__/" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/in/lucas-polli-a99684175/" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=5551981303280" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-whatsapp"></i></a>
   </div>
 </div>
     </div>
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img/avatar.png" class="card-img-top" alt="...">
+  <img src="img/nayumy.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-instagram"></i></a>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-linkedin"></i></a>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-whatsapp"></i></a>
+    <h5 class="card-title">Nayumi Loureiro Pimentel</h5>
+    <p class="card-text">Deselvolvimento de sites com HTML5 e CSS3 e programador backend.</p>
+    <a href="https://www.instagram.com/lucaspolli__/" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/in/lucas-polli-a99684175/" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=5551981303280" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-whatsapp"></i></a>
   </div>
 </div>
     </div>
     <div class="col">
     <div class="card" style="width: 18rem;">
-  <img src="img/avatar.png" class="card-img-top" alt="...">
+  <img src="img/jaderson.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-instagram"></i></a>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-linkedin"></i></a>
-    <a href="#" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-whatsapp"></i></a>
+    <h5 class="card-title">Janderson Pereira Silva</h5>
+    <p class="card-text">Deselvolvimento de sites com HTML5 e CSS3 e programador backend.</p>
+    <a href="https://www.instagram.com/lucaspolli__/" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/in/lucas-polli-a99684175/" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=5551981303280" class="btn btn-primary" id="Lucas"><i class="fa-brands fa-whatsapp"></i></a>
   </div>
 </div>
     </div>

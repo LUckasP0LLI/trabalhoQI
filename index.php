@@ -12,11 +12,10 @@
 <body>
     <nav class="navbar navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar w/ text</a>
+            <a class="navbar-brand" href="#">MEADOTE</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-
           <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
@@ -40,97 +39,107 @@
     <div class="card" style="width: 18rem; display:inline-block;">
     <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Whisky</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
     <a href="#" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Sushi</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
     <a href="#" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Thor</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
     <a href="#" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Pulga</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
     <a href="#" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Faisca</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
     <a href="#" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Quero Adotar</a>>
-  </div>
-</div>
-<div class="card" style="width: 18rem;display: inline-block;">
-  <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Cookie</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
     <a href="#" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Choco</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
+    <a href="#" class="btn btn-primary">Quero Adotar</a>
+  </div>
+  </div>
+</div>
+<div class="card" style="width: 18rem;display: inline-block;">
+  <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
+  <div class="card-body">
+    <h5 class="card-title">Theo</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
+   
     <a href="#" class="btn btn-primary">Quero Adotar</a>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Gin</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
+    
     <a href="#" class="btn btn-primary">Quero Adotar</a>
+  </div>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Vodka</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
+   
     <a href="#" class="btn btn-primary">Quero Adotar</a>
+  </div>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Groot</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
+    
     <a href="#" class="btn btn-primary">Quero Adotar</a>
+  </div>
   </div>
 </div>
 <div class="card" style="width: 18rem;display: inline-block;">
   <img src="img\01.jpg" class="card-img-top" alt="img\01.jpg">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Oreo</h5>
+    <p class="card-text">Procuro um lar,para me ajudar clique no botão abaixo.</p>
+    
     <a href="#" class="btn btn-primary">Quero Adotar</a>
+  </div>
   </div>
 </div>
     </main>
