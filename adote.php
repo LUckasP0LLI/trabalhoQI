@@ -37,8 +37,8 @@
         </div>  
       </nav>
     <main>
-        <h1>Contato</h1>
-        <p>Deixe aqui sua sugestão reclamação ou duvida.</p>
+        <h1>Quero adotar</h1>
+        <p>Preencha esse formulario para dar sequencia no processo de adoção.</p>
     <div class="d-flex justify-content-center">
     <form id="form2" method="post" action="">
     <?php
